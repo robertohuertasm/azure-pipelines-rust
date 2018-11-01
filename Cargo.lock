@@ -1,0 +1,4 @@
+[[package]]
+name = "azure-rust"
+version = "0.1.0"
+
